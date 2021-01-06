@@ -1,0 +1,145 @@
+body {
+    font-family: serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+header {
+    text-align: right;
+    width: 80%;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    list-style: none;
+    padding: 10px 20px;
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0px;
+}
+
+.design {
+    width: 80%;
+    margin: auto;
+    height: 800px;
+}
+
+.leftSide {
+    margin-top: 100px;
+    width: 50%;
+    float: left;
+}
+
+.rightSide {
+    width: 50%;
+    float: left;
+}
+
+.leftSide img {
+    width: 80%;
+    margin-top: 100px;
+}
+
+.rightSide img {
+    width: 80%;
+    margin-top: 70px;
+    margin-bottom: 30px;
+}
+
+.red_highlight {
+    color: tomato;
+}
+
+p {
+    margin-bottom: 40px;
+}
+
+.link_button {
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 35px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 30px;
+}
+
+#about {
+    margin-left: 90px;
+}
+
+.rightSide h3 {
+    font-size: 40px;
+    color: #121242;
+}
+
+.working_project {
+    width: 100%;
+    height: 800px;
+    margin-top: 100px;
+    background: whitesmoke;
+}
+
+.working_project h2 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.project {
+    width: 80%;
+    margin: auto;
+}
+
+.item {
+    background-color: white;
+    box-shadow: 2px 2px 2px rgb(216, 210, 210);
+    width: 27%;
+    padding: 10px;
+    border-radius: 5px;
+    float: left;
+    margin: 2%;
+}
+
+.item img {
+    width: 100%;
+}
+
+.inquery {
+    width: 80%;
+    margin: auto;
+}
+
+.box {
+    border-radius: 80px;
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    background-image: url('images/back_inquery.png');
+}
+
+.box1 {
+    float: left;
+    font-size: 30px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.box2 {
+    float: right;
+    font-size: 20px;
+    color: white;
+    margin-top: 80px;
+    margin-right: 30px;
+}
